@@ -1,5 +1,5 @@
 # Lifetime Startup
-- It Generates Cool Names for Startups
+- It Generates Cool Names for Startups and redirects you to www.namecheap.com
 ## Resources
 
 ### Header Image
