@@ -1,7 +1,6 @@
 # Lifetime Startup
 - It Generates Cool Names for Startups
 - And, Redirects you to www.namecheap.com, Here You Can Purchase Domain Name
-- 
 ## Resources
 
 ### Header Image
